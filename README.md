@@ -1,4 +1,5 @@
 # porject
 
 this is automated project
-here, we will code the entire process to automation
+here, we make automation
+so that the entire process gets simple
